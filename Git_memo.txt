@@ -1,0 +1,6 @@
+git config --global user.email "ikimono_riion@yahoo.co.jp"
+
+git config --global user.name "hoshis"
+
+
+git remote add origin https://github.com/hoshis/FirstRepository.git
